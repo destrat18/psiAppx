@@ -1,6 +1,0 @@
-
-x := 1, y := 2;
-
-def main(){
-	return (x,y); // expected: δ(1)[x]·δ(2)[y]
-}

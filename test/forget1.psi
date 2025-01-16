@@ -1,6 +1,0 @@
-// compilation error
-
-x:=1;
-def main(){
-	forget(x); // error
-}

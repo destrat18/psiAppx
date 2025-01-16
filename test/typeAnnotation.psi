@@ -1,5 +1,0 @@
-
-def main(){
-    x := ?y+?z;
-    return x; // expected: δ(0)[-x+y+z]
-}

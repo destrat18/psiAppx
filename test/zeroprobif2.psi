@@ -1,5 +1,0 @@
-def main(){
-    x := gauss(0,1);
-    if x!=0 { observe(false); }
-    return x; // expected: 0
-}

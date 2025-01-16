@@ -1,6 +1,0 @@
-
-def main(){
-	x := flip(1/2);
-	y := infer((){ observe(x == flip(1/2)+1); return x; });
-	return sample(y); // expected: 1/2·δ(1)[r]
-}

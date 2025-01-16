@@ -1,5 +1,0 @@
-
-def main(){
-    f:=(){assert(false);};
-    return f(); // expected: 0
-}

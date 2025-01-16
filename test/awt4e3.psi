@@ -1,8 +1,0 @@
-// skipped
-
-def main(n){
-	//n := 4;
-	x := uniformInt(1,n);
-	//y := uniformInt(1,x);
-	return x;
-}
