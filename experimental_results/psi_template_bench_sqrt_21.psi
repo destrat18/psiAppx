@@ -1,0 +1,8 @@
+
+def main(){
+    x := uniform(0, 1);
+
+    p := (9.73*x^0)^(1/2);
+    
+    return p;
+}

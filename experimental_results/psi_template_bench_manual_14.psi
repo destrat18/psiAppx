@@ -1,0 +1,8 @@
+
+def main(){
+    x := uniform(0, 1);
+
+    p := (100/( (4.0+x) * (x+9.0) ));
+    
+    return p;
+}

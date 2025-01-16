@@ -1,0 +1,9 @@
+
+def main(){
+    x := uniform(0, 1);
+    y := uniform(0, 1);
+    
+    p := ((x^2 + 2*(y^2) + 3*y*x + x + 1)*10/(2*(y^2) + y*x + y + 2));
+    
+    return p;
+}
